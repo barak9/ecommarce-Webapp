@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ecommarce-Webapp/static/css/main.e3376123.chunk.css",
+    "main.js": "/ecommarce-Webapp/static/js/main.5712f96a.chunk.js",
+    "main.js.map": "/ecommarce-Webapp/static/js/main.5712f96a.chunk.js.map",
+    "runtime-main.js": "/ecommarce-Webapp/static/js/runtime-main.64ab15c8.js",
+    "runtime-main.js.map": "/ecommarce-Webapp/static/js/runtime-main.64ab15c8.js.map",
+    "static/js/2.5353cd36.chunk.js": "/ecommarce-Webapp/static/js/2.5353cd36.chunk.js",
+    "static/js/2.5353cd36.chunk.js.map": "/ecommarce-Webapp/static/js/2.5353cd36.chunk.js.map",
+    "index.html": "/ecommarce-Webapp/index.html",
+    "precache-manifest.e99789f060da6f4bb042e494397d8709.js": "/ecommarce-Webapp/precache-manifest.e99789f060da6f4bb042e494397d8709.js",
+    "service-worker.js": "/ecommarce-Webapp/service-worker.js",
+    "static/css/main.e3376123.chunk.css.map": "/ecommarce-Webapp/static/css/main.e3376123.chunk.css.map",
+    "static/js/2.5353cd36.chunk.js.LICENSE.txt": "/ecommarce-Webapp/static/js/2.5353cd36.chunk.js.LICENSE.txt",
+    "static/media/acer-desktop.jpg": "/ecommarce-Webapp/static/media/acer-desktop.eef9ed5d.jpg",
+    "static/media/acer.jpg": "/ecommarce-Webapp/static/media/acer.51dd98e6.jpg",
+    "static/media/App.css": "/ecommarce-Webapp/static/media/background.a6a3c663.jpg",
+    "static/media/dell-desktop.jpg": "/ecommarce-Webapp/static/media/dell-desktop.2a17d395.jpg",
+    "static/media/dell.jpg": "/ecommarce-Webapp/static/media/dell.2066e320.jpg",
+    "static/media/headphone.jpg": "/ecommarce-Webapp/static/media/headphone.67022039.jpg",
+    "static/media/lanavo.jpg": "/ecommarce-Webapp/static/media/lanavo.63c2997d.jpg",
+    "static/media/mike.jpg": "/ecommarce-Webapp/static/media/mike.9f359ca6.jpg",
+    "static/media/ring.jpg": "/ecommarce-Webapp/static/media/ring.b11122f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ab15c8.js",
+    "static/js/2.5353cd36.chunk.js",
+    "static/css/main.e3376123.chunk.css",
+    "static/js/main.5712f96a.chunk.js"
+  ]
+}
