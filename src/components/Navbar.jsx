@@ -9,7 +9,7 @@ const Navbar = () =>{
             <nav>
                 <ul className='left'>
                     <li>
-                        <Link to='/'>BARAK'S</Link>
+                        <Link to='/ecommarce-Webapp'>BARAK'S</Link>
                     </li>
                 </ul>
 
