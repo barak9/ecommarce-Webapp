@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecommarce-Webapp/static/css/main.5ae5a809.chunk.css",
+    "main.css": "/ecommarce-Webapp/static/css/main.90355913.chunk.css",
     "main.js": "/ecommarce-Webapp/static/js/main.88c7fc2b.chunk.js",
     "main.js.map": "/ecommarce-Webapp/static/js/main.88c7fc2b.chunk.js.map",
     "runtime-main.js": "/ecommarce-Webapp/static/js/runtime-main.64ab15c8.js",
@@ -8,9 +8,9 @@
     "static/js/2.5353cd36.chunk.js": "/ecommarce-Webapp/static/js/2.5353cd36.chunk.js",
     "static/js/2.5353cd36.chunk.js.map": "/ecommarce-Webapp/static/js/2.5353cd36.chunk.js.map",
     "index.html": "/ecommarce-Webapp/index.html",
-    "precache-manifest.cf53702e2b34d349f203783b3d326e5f.js": "/ecommarce-Webapp/precache-manifest.cf53702e2b34d349f203783b3d326e5f.js",
+    "precache-manifest.5a88796d5257981211e7c7a0cea43ceb.js": "/ecommarce-Webapp/precache-manifest.5a88796d5257981211e7c7a0cea43ceb.js",
     "service-worker.js": "/ecommarce-Webapp/service-worker.js",
-    "static/css/main.5ae5a809.chunk.css.map": "/ecommarce-Webapp/static/css/main.5ae5a809.chunk.css.map",
+    "static/css/main.90355913.chunk.css.map": "/ecommarce-Webapp/static/css/main.90355913.chunk.css.map",
     "static/js/2.5353cd36.chunk.js.LICENSE.txt": "/ecommarce-Webapp/static/js/2.5353cd36.chunk.js.LICENSE.txt",
     "static/media/acer-desktop.jpg": "/ecommarce-Webapp/static/media/acer-desktop.eef9ed5d.jpg",
     "static/media/acer.jpg": "/ecommarce-Webapp/static/media/acer.51dd98e6.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.64ab15c8.js",
     "static/js/2.5353cd36.chunk.js",
-    "static/css/main.5ae5a809.chunk.css",
+    "static/css/main.90355913.chunk.css",
     "static/js/main.88c7fc2b.chunk.js"
   ]
 }
