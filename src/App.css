@@ -469,19 +469,24 @@ input {
 }
 
 
-@media(max-width: 1400px){
+@media(max-width: 950px){
   .products{
     flex-wrap: wrap;
+    margin-left: -25px
   }
   .product {
    width: 100%;
   }
-  .product-image {
 
-    height: 200px;
-  
-    margin-left: 55px
+.product-details {
+  margin-right:-100px;
+
+    background: var(--whiteColor);
+ 
+    border-right: 1px solid #7a7676;
+    margin-top: 70px;
   }
+
   .headerText {
     padding: 0 100px;
   }

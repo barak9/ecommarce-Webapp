@@ -40,7 +40,7 @@ const Cart = () => {
                              </div>
                              <div className='total-price-section'>
                                  <div className='just-title'>Total Price </div>
-                                 <div className='items-price'>INR{totalPrice}.00</div>
+                                 <div className='items-price'>Rs. {totalPrice}.00</div>
                              </div>
                              <div className='stripe-section'>
 <StripeCheckout stripeKey='pk_test_51KS2WDSCBA5kF0Hi7hg1IGtieyr1sCNHQWMH9qsmQXRHudTbxdEHePlpcTwQA0CxG9nIjQYwOaPr76c7iQVPEkfs00jtFkVP4N'
