@@ -477,8 +477,8 @@ input {
 .product-image {
 
   height: 160px;
-
-  margin-left:10px;
+ width:100px;
+  margin-left:45px;
 }
 
 .product {
@@ -833,7 +833,7 @@ input {
 margin-left: 24px;
       padding: 2px;
       text-align: center;
-      font-size: 26px;
+      font-size: 23px;
       cursor: pointer;
     }
     
