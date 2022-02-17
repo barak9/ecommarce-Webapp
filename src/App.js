@@ -22,7 +22,7 @@ const App = () =>{
 
            <Switch>
               <Route path='/ecommarce-Webapp' exact component={Products} />
-                <Route path='/cart' exact component={Cart}  />
+                <Route path='/ecommarce-Webapp/cart' exact component={Cart}  />
                 <Route path='/contact' exact component={Contact} />
                 <Route component={NotFound} />
             </Switch>
