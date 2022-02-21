@@ -65,19 +65,17 @@ app.post('/razorpay', async (req, res) => {
   
   try {
     
-  const { product, token,price, address,tqty } = req.body;
+  const { product, token,price, address } = req.body;
   console.log("Product", product);
 
 	const options = {
     payment_capture: 1,
       amount:product.price*100,
       currency:'INR',
-  
       notes: {
         address:'',
         pincode:'',
       },
-  
 
  
   
@@ -90,8 +88,8 @@ app.post('/razorpay', async (req, res) => {
 		console.log(response)
 		res.json({
 			id: response.id,
-      address:response.address,
-      currency:response.address,
+   
+			currency: response.currency,
 			amount: response.amount,
   
 		})

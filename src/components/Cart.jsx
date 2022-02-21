@@ -25,7 +25,7 @@ function loadScript(src) {
 }
 
 
-const __DEV__ = document.domain === 'localhost'
+
 
 const Cart = (token) => {
 
@@ -58,7 +58,7 @@ const Cart = (token) => {
  
 		const options = {
           
-			key: __DEV__ ? 'rzp_live_yTzT1C25rSd0d0' : 'PRODUCTION_KEY',
+			
 			currency: response.currency,
             amount: product.price*100,
 			order_id: response.data.id,
