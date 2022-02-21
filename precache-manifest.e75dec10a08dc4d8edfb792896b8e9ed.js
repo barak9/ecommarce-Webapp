@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c88352ea0b31089580e5808efb73f06e",
+    "revision": "9963a55177eb7bbfdb58d2aba2204798",
     "url": "/ecommarce-Webapp/index.html"
   },
   {
-    "revision": "25e15c3bbb0a86cc6c3a",
-    "url": "/ecommarce-Webapp/static/css/main.3b8234fa.chunk.css"
+    "revision": "4c3bcd5d2919c27f46cf",
+    "url": "/ecommarce-Webapp/static/css/2.a63ca25f.chunk.css"
   },
   {
-    "revision": "34bdfda3ba69cc4135ac",
-    "url": "/ecommarce-Webapp/static/js/2.5353cd36.chunk.js"
+    "revision": "0e5b7a1cae36319b9271",
+    "url": "/ecommarce-Webapp/static/css/main.1f44a7b9.chunk.css"
+  },
+  {
+    "revision": "4c3bcd5d2919c27f46cf",
+    "url": "/ecommarce-Webapp/static/js/2.62732992.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/ecommarce-Webapp/static/js/2.5353cd36.chunk.js.LICENSE.txt"
+    "url": "/ecommarce-Webapp/static/js/2.62732992.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25e15c3bbb0a86cc6c3a",
-    "url": "/ecommarce-Webapp/static/js/main.88c7fc2b.chunk.js"
+    "revision": "0e5b7a1cae36319b9271",
+    "url": "/ecommarce-Webapp/static/js/main.f7c1d076.chunk.js"
   },
   {
     "revision": "ed3d61cccc5764d70768",
