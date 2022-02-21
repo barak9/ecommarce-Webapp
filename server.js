@@ -11,6 +11,8 @@ app.use(bodyparser.urlencoded({ extended: false }))
 app.use(bodyparser.json())
 app.use(express.json());
 app.use(cors());
+const cookieParser = require('cookie-Parser');   
+app.use(cookieParser());
 const razorpay = new Razorpay({
 	key_id: 'rzp_live_yTzT1C25rSd0d0',
 	key_secret: 'MGnNlKOidBdCpeic9RfycwYj'

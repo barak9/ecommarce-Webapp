@@ -41,7 +41,10 @@ const Cart = (token) => {
 
    
         const product = {name: 'All Products', price: totalPrice, order_id:'',tqty:qty,}
-        const response = await axios.post('http://localhost:5000/razorpay', {
+        const response = await axios.post('http://localhost:5000/razorpay', {   headers:{
+            "Content-Type":"application/json"
+        },
+
           
            token,
            product
