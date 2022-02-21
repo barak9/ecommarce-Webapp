@@ -5,7 +5,9 @@
   box-sizing:border-box;
 
 }
-
+.App-link {
+  color: #61dafb;
+}
 :root {
   --mainColor: #f57224;
   --whiteColor: #fff;
@@ -835,6 +837,20 @@ margin-left: 24px;
       text-align: center;
       font-size: 23px;
       cursor: pointer;
+    }
+    .checkoutbutton {
+      background-color: #008CBA; /* Green */
+      border: none;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 3px 2px;
+      cursor: pointer;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 12px;
     }
     
 }

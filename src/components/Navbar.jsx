@@ -19,7 +19,7 @@ const Navbar = () =>{
                     </li>
                 </ul>
                 <ul className='right'>
-                    <li><Link to='cart'>
+                    <li><Link to='/ecommarce-Webapp/cart'>
                             <span className='shopping_cart'>
                             <i className="fas fa-shopping-cart"></i>
                             <span className='cart_count'>{qty}</span>

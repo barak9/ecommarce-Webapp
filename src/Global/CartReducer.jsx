@@ -61,7 +61,9 @@ export const CartReducer = (state, action) =>{
                     return {shoppingCart: [...filtered], totalPrice: updatedPrice, qty: updatedQty}
 
                     break;
-
+                    case 'EMPTY':
+                        return {shoppingCart: [], totalPrice: 0, message: '', qty: 0}
+                        break;
 
         default:
             return state;

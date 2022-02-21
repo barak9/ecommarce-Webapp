@@ -7,8 +7,8 @@ const Banner = () =>{
             <header>
                 <div className='headerText'>
                     <div>
-                    <h1>Happy Navratri</h1>
-                    <p>Enjoy Online shopping with IndiaExpress</p>
+                    <h1>BARAK ELECTRONICS</h1>
+                    <center><p>Enjoy Online shopping with us</p></center>
                     </div>
                 </div>
             </header>
